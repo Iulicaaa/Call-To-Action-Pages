@@ -30,7 +30,9 @@
 body{
   margin: 0;
 }
-
+p{
+  margin: 0;
+}
 
 /*Definim stilul h1*/
 h1{
